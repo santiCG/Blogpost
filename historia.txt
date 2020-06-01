@@ -1,6 +1,8 @@
-hola mi nomvre es santiago
+hola mi nombre es santiago, tengo 16 años
 
 y este es solo el primer ejercicio del curso de git y github 
 de Platzi.
 
-Espero que todo salga bien :)
+La verdad es que en este momento aun no tengo ni idea de git y github.
+
+Pero.... Espero que todo salga bien :)
