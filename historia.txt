@@ -1,0 +1,6 @@
+hola mi nomvre es santiago
+
+y este es solo el primer ejercicio del curso de git y github 
+de Platzi.
+
+Espero que todo salga bien :)
