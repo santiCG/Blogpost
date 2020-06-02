@@ -3,11 +3,7 @@ body, html
     background-color: aquamarine;
     padding: 10%;
     margin: 0px;
-<<<<<<< HEAD
-    font-family: 'Courier New', Courier, monospace;
-=======
     font-family: cursive;
->>>>>>> header
     height: 100%;
 }
 .container
@@ -18,11 +14,7 @@ body, html
 }
 .header
 {
-<<<<<<< HEAD
-    color: blueviolet;
-=======
     color: midnightblue;
->>>>>>> header
     font-size: 20px;
     font-weight: bold;
     padding: 10px;
