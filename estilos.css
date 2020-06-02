@@ -19,6 +19,11 @@ body, html
     font-weight: bold;
     padding: 10px;
 }
+.header span
+{
+    color: orchid;
+    padding-left: 15px;
+}
 .post
 {
     color: coral;
