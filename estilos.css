@@ -1,31 +1,41 @@
-body, html
+body
 {
-    background-color: aquamarine;
+    background-color: rgb(77, 75, 75);
     padding: 10%;
     margin: 0px;
     font-family: cursive;
     height: 100%;
 }
+html
+{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
 .container
 {
-    justify-content: center;
-    align-items: inherit;
     text-align: center;
 }
 .header
 {
     color: midnightblue;
-    font-size: 20px;
+    font-size: 40px;
     font-weight: bold;
     padding: 10px;
 }
+.logo
+{
+    width: 60px;
+    height: 60px;
+    padding-right: 10px;
+}
 .header span
 {
-    color: orchid;
+    color: lightskyblue;
     padding-left: 15px;
 }
 .post
 {
     text-align: center;
-    color: purple;
+    color: ghostwhite;
 }
