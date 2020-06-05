@@ -1,7 +1,7 @@
 body
 {
     background-color: rgb(44, 44, 46);
-    padding: 10%;
+    padding: 3% 15%;
     margin: 0px;
     font-family: cursive;
     height: 100%;
@@ -54,4 +54,10 @@ html
     color: white;
     font-weight: bold;
     padding-left: 15px;
+}
+.foto_blog
+{
+    border-radius: 20px;
+    height: 60%;
+    width: 50%;
 }
