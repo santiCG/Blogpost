@@ -11,6 +11,7 @@ lo que he aprendido en el curso de Git y Github de Platzi.
 	<li>como fusionar ramas</li>
 	<li>como hacer pull request</li>
 	<li>como hacer un fork</li>
+    <li>curso hecho por freddy vega</li>
 </ul>
 Y muchas cosas mas...
  me siento muy ansioso de seguir aprendiendo de mejorar como programador
